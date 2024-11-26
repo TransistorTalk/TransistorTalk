@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @TransistorTalk
+- 👀 I’m interested in Arduino, ESP´s and Flight
+- 🌱 I’m currently learning RC with Arduino
+- 💞️ I’m looking to collaborate on Arduino RC
+- 📫 How to reach me transistortalk@gmail.com
+- ⚡ Fun fact: Monke Syndrom
